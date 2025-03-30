@@ -15,11 +15,14 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
+<p align="left"> 
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hinataFukasaku&layout=compact&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=hinataFukasaku&theme=onedark&show_icons=ture" />
+</p>
 
 # My Qiita posts
 [![My Qiita posts](https://qiita-badge.apiapi.app/s/hinata_ds/posts.svg)](http://qiita.com/hinata_ds)
 # My Qiita contributions
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hinata_ds/contributions.svg)](http://qiita.com/hinata_ds)
-# My Qiita followers
-[![My Qiita followers](https://qiita-badge.apiapi.app/s/hinata_ds/followers.svg)](http://qiita.com/hinata_ds)
+
+
