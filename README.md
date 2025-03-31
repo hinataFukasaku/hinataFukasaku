@@ -29,9 +29,3 @@ Here are some ideas to get you started:
 <!-- HTML -->
 <img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
 <img src="./kaggle-plates/Competitions/white.svg" />
-
-# Markdown
-
-![](./kaggle-badges/CompetitionsRank/plastic-black.svg)
-![](./kaggle-plates/Competitions/white.svg)
-
