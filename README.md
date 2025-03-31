@@ -26,3 +26,6 @@ Here are some ideas to get you started:
 [![My Qiita contributions](https://qiita-badge.apiapi.app/s/hinata_ds/contributions.svg)](http://qiita.com/hinata_ds)
 
 
+<!-- HTML -->
+<img src="./kaggle-badges/CompetitionsRank/plastic-black.svg" />
+<img src="./kaggle-plates/Competitions/white.svg" />
